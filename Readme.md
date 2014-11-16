@@ -15,4 +15,5 @@
     <tr><td>3/10/2014</td><td>Team Apple</td><td>Major rework after the first review</td><td>2.0</td></tr>
     <tr><td>10/10/2014</td><td>Team Apple</td><td>Minor changes</td><td>2.1</td></tr>
     <tr><td>30/10/2014</td><td>Team Apple</td><td>Review by Team Redcurrant</td><td>3.0</td></tr>
+    <tr><td>14/11/2014</td><td>Team Apple</td><td>Performance tests inclusion</td><td>4.0</td></tr>
 </table>
